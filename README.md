@@ -3,7 +3,7 @@
 # Use this command to build jar
 mvn package spring-boot:repackage
 
-# After the jar is generated run the comman below
+# After the jar is generated run the command below
 java -jar target/irfan-1.0-SNAPSHOT.jar
 
 # It will print the message:
